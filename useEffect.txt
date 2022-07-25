@@ -1,0 +1,16 @@
+useEffect 
+
+- Como usarlo | How to use it
+- Ciclo de Vida de React conm hooks | React life Cicle with hooks
+- Use effect con un arreglo vacio | empty array
+- '' con una dependencia | one dependency
+- '' varias dependencias | several dependencies
+ - Limpieza | cleanup (funcion de return que esta implicita enel hook impreso)
+
+///useEffect pt3
+
+ResizeApp:
+capturar ancho de pantalla con un listener, y agregarlo a un estado, para tener una prop reactiva, que actue como una media querie de css.
+nos permita realziar acciones, si cambias resolucion efectuara lo que vos desees ej: (comrpobaciones,acciones,funciones,etc.)
+
+depende del valor que se achique o grande se efectua lo deseado.
